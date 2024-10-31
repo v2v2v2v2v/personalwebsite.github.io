@@ -1,0 +1,21 @@
+name: "Personal Website"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Plots"
+      href: plots.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<you@youremail.com>
+    - icon: fa-github fa-lg
+      href: https://github.com/v2v2v2v2v/
+    - icon: fa-solid fa-message
+      href: https://www.linkedin.com/jobs/doctor-jobs?position=1&pageNum=0
+
+output:
+  html_document:
+    theme: cerulean

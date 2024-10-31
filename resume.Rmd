@@ -1,0 +1,100 @@
+---
+title: "Resume"
+output: html_document
+date: "2024"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Resume
+<br>
+
+Dr. XYZ Physician at ABCD Clinic
+
+Contact Information: Phone: (XXX) XXX-XXXX
+
+Email: xyz@example.com
+
+LinkedIn: linkedin.com/in/xyz
+
+Address: 123 Main Street, City, State, ZIP
+
+Professional Summary: Dedicated and compassionate physician with extensive experience in advancing healthcare through rigorous research and innovative treatment methods. Recognized for significant contributions to the medical community through numerous groundbreaking research projects published in prestigious journals. Committed to providing the highest quality care to patients and making a lasting impact on their lives.
+
+Education:
+
+- Doctor of Medicine (MD) University of Medicine, 2020
+
+- Bachelor of Science in Biology University of Science, 2010
+
+Professional Experience:
+
+- Physician ABCD Clinic, City, 2021 - Present
+
+- Provide high-quality care to patients utilizing the latest research and innovative treatment methods.
+
+- Conduct and contribute to groundbreaking research projects, resulting in publications in prestigious medical journals.
+
+- Collaborate with healthcare professionals to develop and implement comprehensive patient care plans.
+
+- Resident Physician XYZ Hospital, City, State Year - Year
+
+- Managed patient care in various departments, including internal medicine, surgery, and pediatrics.
+
+- Conducted medical research and presented findings at medical conferences.
+
+- Developed and implemented patient care protocols to improve outcomes.
+
+Research Experience:
+
+- Lead Researcher, Study on "Dementia Cases of Retired Female Professor"
+
+- Conducted extensive research on "Dementia: An early onset" resulting in significant findings published in Medical Magazine.
+
+- Collaborated with a multidisciplinary team to advance understanding and treatment of   COVID-19.
+
+- Co-Investigator, Study on "Obesity in Toddlers"
+
+- Participated in research on "Health Impacts of Mobile Gaming in Teenagers" leading to publications and presentations at medical conferences.
+
+- Developed innovative methodologies for data collection and analysis.
+
+Publications:
+
+1) XYZ, Dr. XYZ, et al. "[Title of Research Paper]," [Journal Name], [Year].
+
+2) XYZ, Dr. XYZ, et al. "[Title of Research Paper]," [Journal Name], [Year].
+
+Professional Memberships:
+
+- American Medical Association (AMA)
+
+- Medical Research Society (MRS)
+
+- Society for Children Mental Studies
+
+Skills:
+
+- Advanced Clinical Skills
+
+- Medical Research and Analysis
+
+- Patient Care and Treatment Planning
+
+- Team Collaboration and Leadership
+
+- Data Science
+
+- Public Speaking and Presentation
+
+Personal Information:
+
+- Marital Status: Married
+
+- Children: Two
+
+<hr>
+
+<small> You can go [home](index.html). </small>

@@ -1,0 +1,23 @@
+---
+title: "Introduction"
+output:
+  html_document:
+  toc: true
+  toc_float: true
+---
+
+```{r, echo=FALSE, out.width='30%', fig.align='center'} 
+knitr::include_graphics('female-doctor-icon-vector.jpg')
+```
+
+<br>
+
+<b> About me </b>:  My name is XYZ, and I am a dedicated physician at the esteemed ABCD Clinic. My passion for medicine is deeply rooted in my commitment to advancing healthcare through rigorous research and compassionate patient care. Over the years, I have been involved in numerous groundbreaking research projects that have contributed significantly to the medical community. My work has been published in several prestigious journals, reflecting my dedication to evidence-based practice and continuous learning.
+
+
+Beyond my professional life, I am a proud parent of two wonderful children, who bring joy and purpose to my everyday life. My wife, an incredible partner and supporter, has been a constant source of strength and inspiration.
+
+
+At ABCD Clinic, I strive to provide the highest quality care to my patients, utilizing the latest research and innovative treatment methods. My goal is to make a lasting impact on my patients' lives and contribute to the betterment of healthcare as a whole.
+
+
