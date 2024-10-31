@@ -14,10 +14,10 @@ library(ggplot2)
 library(plotly)
 ```
 
-Column {data-width=500}
+Column {data-width=550}
 -----------------------------------------------------------------------
 
-### Plot A = Scatter Plot for Precipitation
+### Scatter Plot
 
 ```{r}
 
@@ -42,16 +42,16 @@ scatter_ggplot =
   ggplot(aes(x = date, y = prcp, color= prcp)) +
   geom_point(alpha = 0.666) +
   scale_color_gradient(low = "lightblue", high = "navy") +
-  labs(y = "precipition") +
+  labs(x = "Date", y = "Precipition", title = "Precipitation over time") +
   coord_cartesian()
 
 ggplotly(scatter_ggplot)
 ```
 
-Column {data-width=350}
+Column {data-width=450}
 -----------------------------------------------------------------------
 
-### Plot B = Bar Plot for Year Wise Total Precipitation
+### Bar Plot
 
 ```{r}
 
@@ -66,14 +66,14 @@ bar_ggplot =
   year_ny_dat |>
   ggplot(aes(x=year, y=total_prcp, fill=year)) +
   geom_bar(stat = "identity") +
-  labs(y = "total precipitation")
+  labs(x= "Year", y = "Total Precipitation", title = "Plot for Year Wise Total Precipitation")
   
 
 ggplotly(bar_ggplot)
 
 ```
 
-### Plot C = Plot Comparing Snowfall and Snow Depth
+### Line Plot
 
 ```{r}
 
@@ -93,6 +93,6 @@ line_plot <- nydat1 |>
   ggplot(aes(x = snow, y = snwd, text = date)) +
   geom_line() +
   geom_abline(linetype = "dotted", intercept = intercept, slope = slope, color = "magenta", lwd = 0.7) +
-  labs(y = "Snow Depth (SNWD)", x = "Snow", title = "Relationship between snowfall and depth")
+  labs(y = "Snow Depth (SNWD)", x = "Snow", title = "Relationship Between Snowfall and Snow Depth")
 ggplotly(line_plot)
 ```
