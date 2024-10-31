@@ -23,12 +23,14 @@ Address: 123 Main Street, City, State, ZIP
 
 Professional Summary: Dedicated and compassionate physician with extensive experience in advancing healthcare through rigorous research and innovative treatment methods. Recognized for significant contributions to the medical community through numerous groundbreaking research projects published in prestigious journals. Committed to providing the highest quality care to patients and making a lasting impact on their lives.
 
+<br>
 Education:
 
 - Doctor of Medicine (MD) University of Medicine, 2020
 
 - Bachelor of Science in Biology University of Science, 2010
 
+<br>
 Professional Experience:
 
 - Physician ABCD Clinic, City, 2021 - Present
@@ -47,6 +49,7 @@ Professional Experience:
 
 - Developed and implemented patient care protocols to improve outcomes.
 
+<br>
 Research Experience:
 
 - Lead Researcher, Study on "Dementia Cases of Retired Female Professor"
@@ -61,12 +64,14 @@ Research Experience:
 
 - Developed innovative methodologies for data collection and analysis.
 
+<br>
 Publications:
 
 1) XYZ, Dr. XYZ, et al. "[Title of Research Paper]," [Journal Name], [Year].
 
 2) XYZ, Dr. XYZ, et al. "[Title of Research Paper]," [Journal Name], [Year].
 
+<br>
 Professional Memberships:
 
 - American Medical Association (AMA)
@@ -75,6 +80,7 @@ Professional Memberships:
 
 - Society for Children Mental Studies
 
+<br>
 Skills:
 
 - Advanced Clinical Skills
@@ -89,6 +95,7 @@ Skills:
 
 - Public Speaking and Presentation
 
+<br>
 Personal Information:
 
 - Marital Status: Married
@@ -96,6 +103,7 @@ Personal Information:
 - Children: Two
 
 <br>
+<br>
 <hr>
 
-<small> You can go [home](index.html). </small>
+<small><center> You can go [home](index.html). </center></small>
