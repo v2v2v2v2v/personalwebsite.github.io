@@ -8,7 +8,7 @@ navbar:
     - text: "Plots"
       href: plots.html
     - icon: fa-envelope fa-lg
-      href: mailto:<vt2415@cumc.columbia.edu>
+      href: mailto:vt2415@cumc.columbia.edu
     - icon: fa-github fa-lg
       href: https://github.com/v2v2v2v2v/
     - icon: fa-solid fa-message
