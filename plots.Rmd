@@ -1,5 +1,5 @@
 ---
-title: "Weather Data Plots"
+title: "Weather Data Plots- NY"
 output:
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -14,10 +14,10 @@ library(ggplot2)
 library(plotly)
 ```
 
-Column {data-width=650}
+Column {data-width=500}
 -----------------------------------------------------------------------
 
-### Plot A = Scatter Plot for Precipitation in NYC
+### Plot A = Scatter Plot for Precipitation
 
 ```{r}
 
@@ -73,7 +73,7 @@ ggplotly(bar_ggplot)
 
 ```
 
-### Plot C = Plot Comparing Snow and Snow Depth
+### Plot C = Plot Comparing Snowfall and Snow Depth
 
 ```{r}
 
@@ -93,6 +93,6 @@ line_plot <- nydat1 |>
   ggplot(aes(x = snow, y = snwd, text = date)) +
   geom_line() +
   geom_abline(linetype = "dotted", intercept = intercept, slope = slope, color = "magenta", lwd = 0.7) +
-  labs(y = "Snow Depth (SNWD)", x = "Snow", title = "Relationship between snow fall and depth")
+  labs(y = "Snow Depth (SNWD)", x = "Snow", title = "Relationship between snowfall and depth")
 ggplotly(line_plot)
 ```

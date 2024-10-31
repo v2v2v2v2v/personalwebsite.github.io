@@ -6,6 +6,8 @@ output:
   toc_float: true
 ---
 
+<br> 
+
 ```{r, echo=FALSE, out.width='30%', fig.align='center'} 
 knitr::include_graphics('female-doctor-icon-vector.jpg')
 ```

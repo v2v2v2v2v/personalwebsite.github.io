@@ -1,14 +1,14 @@
 ---
 title: "Resume"
 output: html_document
-date: "2024"
+date: "(As of 2024)"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Resume
+<br>
 <br>
 
 Dr. XYZ Physician at ABCD Clinic
@@ -95,6 +95,7 @@ Personal Information:
 
 - Children: Two
 
+<br>
 <hr>
 
 <small> You can go [home](index.html). </small>
