@@ -45,7 +45,7 @@ scatter_ggplot =
   labs(x = "Date", y = "Precipition", title = "Precipitation over time") +
   coord_cartesian()
 
-ggplotly(scatter_ggplot)
+ggplotly(scatter_ggplot, tooltip = c("x", "y"))
 ```
 
 Column {data-width=450}
@@ -69,7 +69,7 @@ bar_ggplot =
   labs(x= "Year", y = "Total Precipitation", title = "Plot for Year Wise Total Precipitation")
   
 
-ggplotly(bar_ggplot)
+ggplotly(bar_ggplot, tooltip = c("x", "y"))
 
 ```
 
