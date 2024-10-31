@@ -24,14 +24,14 @@ Address: 123 Main Street, City, State, ZIP
 Professional Summary: Dedicated and compassionate physician with extensive experience in advancing healthcare through rigorous research and innovative treatment methods. Recognized for significant contributions to the medical community through numerous groundbreaking research projects published in prestigious journals. Committed to providing the highest quality care to patients and making a lasting impact on their lives.
 
 <br>
-Education:
+<h5> Education: </h5>
 
 - Doctor of Medicine (MD) University of Medicine, 2020
 
 - Bachelor of Science in Biology University of Science, 2010
 
 <br>
-Professional Experience:
+<h5> Professional Experience: </h5>
 
 - Physician ABCD Clinic, City, 2021 - Present
 
@@ -50,7 +50,7 @@ Professional Experience:
 - Developed and implemented patient care protocols to improve outcomes.
 
 <br>
-Research Experience:
+<h5> Research Experience: </h5>
 
 - Lead Researcher, Study on "Dementia Cases of Retired Female Professor"
 
@@ -65,14 +65,14 @@ Research Experience:
 - Developed innovative methodologies for data collection and analysis.
 
 <br>
-Publications:
+<h5> Publications: </h5>
 
 1) XYZ, Dr. XYZ, et al. "[Title of Research Paper]," [Journal Name], [Year].
 
 2) XYZ, Dr. XYZ, et al. "[Title of Research Paper]," [Journal Name], [Year].
 
 <br>
-Professional Memberships:
+<h5> Professional Memberships: </h5>
 
 - American Medical Association (AMA)
 
@@ -81,7 +81,7 @@ Professional Memberships:
 - Society for Children Mental Studies
 
 <br>
-Skills:
+<h5> Skills: </h5>
 
 - Advanced Clinical Skills
 
@@ -96,7 +96,7 @@ Skills:
 - Public Speaking and Presentation
 
 <br>
-Personal Information:
+<h5> Personal Information: </h5>
 
 - Marital Status: Married
 
@@ -106,4 +106,4 @@ Personal Information:
 <br>
 <hr>
 
-<small><center> You can go [home](index.html). </center></small>
+<small> <center> You can go [home](index.html). </center> </small>
